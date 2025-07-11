@@ -1,0 +1,18 @@
+{
+  "world": "World",
+  "business": "Business",
+  "lifestyle": "Lifestyle",
+  "latestStories": "Latest Stories",
+  "category": "Category",
+  "author": "Author",
+  "time": "Time",
+  "readTime": "Read Time",
+  "share": "Share",
+  "bookmark": "Bookmark",
+  "comments": "Comments",
+  "joinDiscussion": "Join the discussion",
+  "notFound": "Not Found",
+  "pageNotFound": "The page you are looking for does not exist.",
+  "close": "Close",
+  "allRightsReserved": "All rights reserved."
+}
